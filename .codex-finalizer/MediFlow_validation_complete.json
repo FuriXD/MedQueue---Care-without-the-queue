@@ -1,0 +1,362 @@
+{
+  "schemaVersion": "presentation-finalization.v1",
+  "finalSha256": "518d6cd0b4a10485c0271ae9743ba1a43779c677f5c8f2f25655edb40e47de20",
+  "byteCount": 473055,
+  "packageIntegrity": {
+    "chart_count": 0,
+    "claim_boundary": "Structural package checks only; no slide text, notes, formulas, chart values, or native PowerPoint execution were inspected.",
+    "finding_count": 0,
+    "findings": [],
+    "notes_parts_skipped": 14,
+    "relationship_part_count": 43,
+    "slide_count": 14,
+    "status": "pass",
+    "exitCode": 0,
+    "findingCount": 0,
+    "warnings": []
+  },
+  "presentationLayout": {
+    "finding_count": 0,
+    "findings": [],
+    "font_policy": {
+      "checked_text_script_count": 259,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Calibri",
+        "Times New Roman"
+      ],
+      "observed_font_use_counts": {
+        "Calibri": 195,
+        "Times New Roman": 64
+      },
+      "passed": true,
+      "performed": true
+    },
+    "slide_count": 14,
+    "slide_size_in": [
+      13.3333,
+      7.5
+    ],
+    "warning_count": 37,
+    "warnings": [
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "1028",
+        "object_kind": "pic",
+        "slide": 1
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "2",
+        "object_kind": "sp",
+        "slide": 3
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "3",
+        "object_kind": "sp",
+        "slide": 3
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "7",
+        "object_kind": "sp",
+        "slide": 3
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "2",
+        "object_kind": "sp",
+        "slide": 4
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "3",
+        "object_kind": "sp",
+        "slide": 4
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "7",
+        "object_kind": "sp",
+        "slide": 4
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "2",
+        "object_kind": "sp",
+        "slide": 5
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "3",
+        "object_kind": "sp",
+        "slide": 5
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "7",
+        "object_kind": "sp",
+        "slide": 5
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "2",
+        "object_kind": "sp",
+        "slide": 6
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "3",
+        "object_kind": "sp",
+        "slide": 6
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "7",
+        "object_kind": "sp",
+        "slide": 6
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "2",
+        "object_kind": "sp",
+        "slide": 7
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "3",
+        "object_kind": "sp",
+        "slide": 7
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "7",
+        "object_kind": "sp",
+        "slide": 7
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "2",
+        "object_kind": "sp",
+        "slide": 8
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "3",
+        "object_kind": "sp",
+        "slide": 8
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "7",
+        "object_kind": "sp",
+        "slide": 8
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "2",
+        "object_kind": "sp",
+        "slide": 9
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "3",
+        "object_kind": "sp",
+        "slide": 9
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "7",
+        "object_kind": "sp",
+        "slide": 9
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "2",
+        "object_kind": "sp",
+        "slide": 10
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "3",
+        "object_kind": "sp",
+        "slide": 10
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "7",
+        "object_kind": "sp",
+        "slide": 10
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "2",
+        "object_kind": "sp",
+        "slide": 11
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "3",
+        "object_kind": "sp",
+        "slide": 11
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "7",
+        "object_kind": "sp",
+        "slide": 11
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "2",
+        "object_kind": "sp",
+        "slide": 12
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "3",
+        "object_kind": "sp",
+        "slide": 12
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "7",
+        "object_kind": "sp",
+        "slide": 12
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "2",
+        "object_kind": "sp",
+        "slide": 13
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "3",
+        "object_kind": "sp",
+        "slide": 13
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "7",
+        "object_kind": "sp",
+        "slide": 13
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "2",
+        "object_kind": "sp",
+        "slide": 14
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "3",
+        "object_kind": "sp",
+        "slide": 14
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "7",
+        "object_kind": "sp",
+        "slide": 14
+      }
+    ],
+    "exitCode": 0,
+    "findingCount": 0,
+    "fontPolicy": {
+      "checked_text_script_count": 259,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Calibri",
+        "Times New Roman"
+      ],
+      "observed_font_use_counts": {
+        "Calibri": 195,
+        "Times New Roman": 64
+      },
+      "passed": true,
+      "performed": true
+    }
+  },
+  "fontSelection": {
+    "basis": "reference",
+    "approvedFamilies": [
+      "Times New Roman",
+      "Calibri"
+    ],
+    "scriptFonts": {},
+    "referenceSha256": "6448fe11fffa2d5c42d29c4bc11ebae5f3869ddf3c551b6b5e6dba9e08bf4867",
+    "referenceFontsVerifiedInEncodedText": true,
+    "checked_text_script_count": 259,
+    "native_font_rendering_verified": false,
+    "observed_font_families": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "observed_font_use_counts": {
+      "Calibri": 195,
+      "Times New Roman": 64
+    },
+    "passed": true,
+    "performed": true
+  },
+  "firstPartyImport": {
+    "performed": true,
+    "passed": true,
+    "slideCount": 14,
+    "sha256": "518d6cd0b4a10485c0271ae9743ba1a43779c677f5c8f2f25655edb40e47de20",
+    "runtimeNodeModules": "/Users/ariz/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules",
+    "nodeExecutable": "/Users/ariz/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node"
+  },
+  "nativeTableArithmetic": {
+    "performed": true,
+    "checked_column_count": 0,
+    "checks": [],
+    "claim_boundary": "Displayed-value arithmetic with rounding tolerance; not source-data verification.",
+    "eligible_table_count": 0,
+    "finding_count": 0,
+    "findings": [],
+    "native_table_count": 0,
+    "passed": true,
+    "schema_version": "presentation-native-table-arithmetic.v1",
+    "skipped_tables": [],
+    "slide_count": 14,
+    "warning_count": 0,
+    "warnings": []
+  },
+  "nativeChartTitles": {
+    "performed": true,
+    "checks": [],
+    "finding_count": 0,
+    "findings": [],
+    "native_chart_count": 0,
+    "native_powerpoint_verified": false,
+    "passed": true,
+    "presentation_sha256": "518d6cd0b4a10485c0271ae9743ba1a43779c677f5c8f2f25655edb40e47de20",
+    "schema_version": "presentation-native-chart-titles.v1",
+    "slide_count": 14,
+    "source_text_emitted": false,
+    "unresolved_linked_title_count": 0
+  },
+  "sourceDerivedPolicyFlags": [
+    "--expected-slide-size-emu",
+    "12192000,6858000",
+    "--validate-bullet-geometry",
+    "--validate-heading-fit",
+    "--cover-role",
+    "none",
+    "--approved-font-family",
+    "Times New Roman",
+    "--approved-font-family",
+    "Calibri"
+  ],
+  "nativeChartValidation": {
+    "detectedOwnerSlides": [],
+    "detectedChartCount": 0,
+    "targetApplication": null,
+    "sourceChartOwnersExplicitlyDeclared": false,
+    "validatorRan": false,
+    "passed": true
+  }
+}

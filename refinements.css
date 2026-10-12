@@ -1,0 +1,8 @@
+.risk-badge.critical-risk{color:#a6574e;background:#fbefed}
+.risk-badge.critical-risk i{background:#b8645a}
+.empty-row{text-align:center;color:#96a39c!important;padding:24px!important}
+.button:disabled{opacity:.55;cursor:not-allowed;transform:none}
+.info-actions{display:flex;justify-content:flex-end;gap:8px;padding-top:3px}
+.info-actions .button{font-size:9px}
+.called-banner .missed-link:hover{color:#a34f45}
+.patient-mode .help-card{display:none}
