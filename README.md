@@ -1,4 +1,4 @@
-# QueueLess prototype
+# MediFlow Queue Management prototype
 
 A responsive, browser-based prototype for a healthcare virtual queue. It is a front-end demonstration and does not connect to a cloud database or send real notifications.
 
